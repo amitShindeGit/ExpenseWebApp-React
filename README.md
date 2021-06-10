@@ -1,4 +1,4 @@
-#💲Expense Tracker WebApp made in React.
+# 💲Expense Tracker WebApp made in React.
 Using this WebApp we could track Expense of a particular year.
 
 This app is a section of an Udemy Course on React .
